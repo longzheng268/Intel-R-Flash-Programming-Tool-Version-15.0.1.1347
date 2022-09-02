@@ -1,5 +1,6 @@
 Intel (R) Flash Programming Tool Version: 15.0.1.1347一种基于Intel平台使用FPT刷新BIOS的方法技术的工具
 下载链接：https://download.csdn.net/download/qq_41145669/86507117
+
 第一种操作方法：双击backup.exe便是备份，双击flash便是写入。 ：：
 ![image](https://user-images.githubusercontent.com/38132402/188080812-9dcad861-43c3-4874-a662-84c8b0656d53.png)
 第二种操作方法：当然也支持传统桥命令。
